@@ -13,7 +13,7 @@ React Router is the most popular router library for React, it provides a simple 
 
 ### if you want to run this code on your device
 
-Your device should be properly installed with Node JS
+Your device should be properly installed with Node JS, after
 Download the source code and open it on a code Editor like 
 VS code and run command is shown below in the integrated terminal 
 of the code editor with the proper path
